@@ -19,6 +19,8 @@
     <sonar.projectKey>pmp-jacobmyers_simple-java-maven-app</sonar.projectKey>
     <sonar.organization>pmp-jacobmyers</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
   <build>
     <plugins>
